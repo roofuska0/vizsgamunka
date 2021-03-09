@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, white, rgb(125, 216, 247));
+    size: 100%;
+}
+span{
+    float: right;
+}
+h1{
+    text-align: left;
+}
+h2{
+    text-align: center;
+
+}
