@@ -88,7 +88,8 @@ include('server.php');
 </form>
 
 </div>
-
+<a href="#">Súgó</a><br>
+<a href="#">Kapcsolat</a>
 
 </body>
 </html>
